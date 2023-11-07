@@ -1,3 +1,4 @@
+![MasterHead](https://cdn.faun.dev/prod/media/public/original_images/devOps-cloud-native.gif)
 <h1 align="center">Hi 👋, I'm Shaikh Faizan Hussain</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgmXy69YzLGpXQPHvzqK837u_fkSiFu5cg7Q&usqp=CAU">
